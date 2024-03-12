@@ -1,4 +1,4 @@
-Este es un proyecto sobre "Conversor de Monedas" 
+Este es un proyecto sobre "Conversor de Monedas"   JUAN CUSCUN -juancuscun@galileo.edu- CARNET-24000148 - 
 
 Descripcion:  
 Se crea un archivo .c llanado "Progama.c" el cual se ejecuta desde visual studio code enlasado por medio de SSH a una maquina virtual (Virtual Box) de Ubuntu.
