@@ -3,6 +3,7 @@ Este es un proyecto sobre "Conversor de Monedas"
 Descripcion:  
 Se crea un archivo .c llanado "Progama.c" el cual se ejecuta desde visual studio code enlasado por medio de SSH a una maquina virtual (Virtual Box) de Ubuntu.
 Se utlizaron los siguientes comandos para poder ejecutar los programas
+
 sudo apt install ssh
 
 sudo apt install net-tools
