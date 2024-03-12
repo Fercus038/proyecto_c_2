@@ -6,10 +6,15 @@ Se utlizaron los siguientes comandos para poder ejecutar los programas
 sudo apt install ssh
 
 sudo apt install net-tools
+
 ifconfig
+
 cat nombre_archivo
+
 cd nombre_carpeta
+
 sudo su 
+
 sudo apt install build-essential
 
 para correr el programa en C, nos vamos a la terminal, nos posicionamos en la carpeta donde se encuentra nuestro archivo .c y luego ejecutamos el siguiente comando ggc (nombre del ejecutable) -o conversor (Conversonr es el archivo binario)
